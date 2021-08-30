@@ -2,7 +2,7 @@
   "name": "app123",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Taku0324/tkm0324.weather-react",
+  "homepage": "https://Taku0324.github.io/tkm0324.weather-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
